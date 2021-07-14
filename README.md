@@ -1,3 +1,6 @@
+
+[![Copr build status](https://copr.fedorainfracloud.org/coprs/bvn13/kafkacat/package/kafkacat/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/bvn13/kafkacat/package/kafkacat/)
+
 # kafkacat
 
 This is a Fedora package repository of [kafkacat](https://github.com/edenhill/kafkacat) utility
