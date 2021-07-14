@@ -1,4 +1,4 @@
 #/bin/bash
 
-spectool -g kafcacat.spec
+spectool -g kafkacat.spec
 fedpkg --release f34 local

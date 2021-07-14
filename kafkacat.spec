@@ -5,7 +5,6 @@ Summary: kafkacat is a generic non-JVM producer and consumer for Apache Kafka 0.
 
 License:  BSD-2-Clause
 URL:      https://github.com/edenhill/kafkacat
-#Source:   kafkacat-%{version}.tar
 Source:   https://github.com/edenhill/kafkacat/archive/refs/tags/1.6.0.zip
 
 BuildRequires: zlib-devel
