@@ -1,3 +1,0 @@
-[submodule "kafkacat"]
-	path = kafkacat
-	url = https://github.com/edenhill/kafkacat.git

@@ -30,31 +30,19 @@ This is a Fedora package repository of [kafkacat](https://github.com/edenhill/ka
 git clone https://github.com/bvn13/kafkacat.git
 ```
 
-2. update submodule
+2. download dependencies
 
 ```
-git submodule foreach git pull origin master
+spectool -g kafkacat.spec
 ```
 
-3. make a symlink
-
-```
-ln -sf kafkacat kafkacat-1.7.0
-```
-
-4. make a tar archive
-
-```
-tar -cf kafkacat-1.7.0.tar kafkacat-1.7.0
-```
-
-5. build fedora package
+3. build fedora package
 
 ```
 fedpkg --release f34 local
 ```
 
-6. install built rpm
+4. install built rpm
 
 ```
 # rpm -i x86_64/kafkacat-1.7.0-1.x86_64.rpm
