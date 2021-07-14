@@ -59,4 +59,4 @@ fedpkg --release f34 local
 
 ## or...
 
-you may to run `./build.sh` script to build rpm (steps 1-5)
+you may run `./build.sh` script to build rpm (steps 1-5)
