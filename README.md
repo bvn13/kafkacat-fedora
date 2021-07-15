@@ -1,5 +1,5 @@
 
-[![Copr build status](https://copr.fedorainfracloud.org/coprs/bvn13/kafkacat/package/kafcacat-git-spec/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/bvn13/kafkacat/package/kafcacat-git-spec/)
+[![Copr build status](https://copr.fedorainfracloud.org/coprs/bvn13/kafkacat/package/kafkacat/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/bvn13/kafkacat/package/kafkacat/)
 
 # kafkacat
 
